@@ -29,6 +29,7 @@ PyVista is an open-source Python library designed for 3D visualization and analy
 3. After installation, launch the application. 🚀
 
 ## Usage Examples 📊
+![image](https://github.com/user-attachments/assets/37ce264a-1948-4bd0-ad6a-00e45a9e02f7)
 
 
 
